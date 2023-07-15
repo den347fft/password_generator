@@ -1,0 +1,9 @@
+- # password Generator V1.5
+    - ## how to use type 
+      - # ![Alt text](image.png)
+      - ### write only first letters of type 
+      - ## for example 
+        - ### if type big_letters 
+          - ### write b_l
+        - ### if type big_letters_small_leters
+            - ### write b_l_s_l
